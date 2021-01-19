@@ -1,0 +1,23 @@
+{
+  "name": "hwcr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.2",
+    "animate.css": "^4.1.1",
+    "aos": "^2.3.4",
+    "bootstrap": "^5.0.0-beta1",
+    "hover.css": "^2.3.2",
+    "jquery": "^3.5.1",
+    "normalize.css": "^8.0.1",
+    "sass": "^1.32.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "css": "sass --watch scss:css --style compressed"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
