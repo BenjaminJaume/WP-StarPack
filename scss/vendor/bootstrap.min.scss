@@ -1,4 +1,6 @@
-@use "../colors";
+@use '../colors';
+
+// Custom Bootstrap code
 
 $theme-colors: (
   "dark": colors.$olive,
@@ -8,4 +10,4 @@ $theme-colors: (
   "light": #f1f2f6,
 );
 
-@import "../../node_modules/bootstrap/scss/bootstrap";
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";

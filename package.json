@@ -11,11 +11,13 @@
     "hover.css": "^2.3.2",
     "jquery": "^3.5.1",
     "normalize.css": "^8.0.1",
+    "rfs": "^9.0.3",
     "sass": "^1.32.4"
   },
   "devDependencies": {},
   "scripts": {
-    "css": "sass --watch scss:css --style compressed"
+    "css": "sass --watch scss:css --style compressed",
+    "prettier": "prettier"
   },
   "keywords": [],
   "author": "",

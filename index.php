@@ -1,6 +1,5 @@
 <?php get_header(); ?>
 
-    <i class="fas fa-user"></i> <!-- uses solid style -->
-    <i class="fab fa-github-square"></i> <!-- uses brand style -->
+<h1 class="font-manrope"> Welcome to the club</h1>
 
 <?php get_footer(); ?>

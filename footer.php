@@ -4,7 +4,7 @@
     <footer class="container mt-5 py-5">
         <div class="row mb-3">
             <div class="col-12">
-                <h1 class="text-center font-kollektif text-uppercase text-success font-weight-bold">
+                <h1 class="text-center text-uppercase text-success font-weight-bold">
                     <?php echo get_bloginfo('name'); ?>
                 </h1>
             </div>

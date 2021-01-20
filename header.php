@@ -6,10 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo get_bloginfo('name'); ?></title>
 
-    <!-- <link href="https://fonts.googleapis.com/css2?family=Jost:wght@300;400&family=Manrope:wght@300;400;600&family=Roboto:wght@300;400&display=swap" rel="stylesheet"> -->
-    <!-- <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap" rel="stylesheet"> -->
-
-    <!-- From https://favicon.io/ -->
+    <!-- Favicons
+    From https://favicon.io/ -->
     <link rel="apple-touch-icon" sizes="180x180" href="<?php echo get_template_directory_uri() . '/medias/favicon/apple-touch-icon.png'; ?>">
     <link rel="icon" type="image/png" sizes="32x32" href="<?php echo get_template_directory_uri() . '/medias/favicon/favicon-32x32.png'; ?>">
     <link rel="icon" type="image/png" sizes="16x16" href="<?php echo get_template_directory_uri() . '/medias/favicon/favicon-16x16.png'; ?>">
@@ -20,27 +18,8 @@
 
 <?php
 
-global $front_page_id;
-global $seminars_page_id;
-global $book_page_id;
-global $contact_page_id;
-
-global $not_page_id;
-global $net_page_id;
-global $energetic_rebalancing_page_id;
-global $chiropractic_page_id;
-global $nutrition_page_id;
-
-$front_page_id = 7;
-$seminars_page_id = 75;
-$book_page_id = 13;
-$contact_page_id = 37;
-
-$not_page_id = 19;
-$net_page_id = 23;
-$energetic_rebalancing_page_id = 27;
-$chiropractic_page_id = 21;
-$nutrition_page_id = 25;
+// global $global_variable;
+// $global_variable = 0;
 
 ?>
 
