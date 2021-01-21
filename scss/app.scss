@@ -1,9 +1,20 @@
-@use 'colors';
+@use "colors";
+
+// Vendor CSS librairies
+
+@import "vendor/bootstrap";
+@import "vendor/rfs";
+@import "vendor/animate";
+@import "vendor/hover";
+@import "vendor/aos";
+@import "vendor/normalize";
+@import "vendor/fontawesome";
+
+// CSS front the custom theme
 
 @import "fonts";
-@import "custom";
 @import "header";
+@import "custom";
 
 // @import "front-page";
-
 // @import "footer";

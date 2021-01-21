@@ -1,5 +1,7 @@
 <?php get_header(); ?>
 
-<h1 class="font-manrope"> Welcome to the club</h1>
+<p>
+<h1 class="font-manrope text-center m-5"> Welcome to our brand new website</h1>
+</p>
 
 <?php get_footer(); ?>

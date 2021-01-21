@@ -1,7 +1,7 @@
 </main>
 
 <div class="bg-light border-top">
-    <footer class="container mt-5 py-5">
+    <footer class="container py-5">
         <div class="row mb-3">
             <div class="col-12">
                 <h1 class="text-center text-uppercase text-success font-weight-bold">
@@ -31,7 +31,7 @@
             <div class="col-12 text-center">
                 <p class="">
                     Web Designer: Benjamin Jaume -
-                    <a href="http://www.benjaminjau.me" alt="" class="text-warning" target="_blank">
+                    <a href="http://www.benjaminjau.me" alt="" class="text-brand" target="_blank">
                         www.benjaminjau.me
                     </a>
                 </p>
