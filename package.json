@@ -22,13 +22,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BenjaminJaume/hwcr.git"
+    "url": "git+https://github.com/BenjaminJaume/wp-startpack.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/BenjaminJaume/hwcr/issues"
+    "url": "https://github.com/BenjaminJaume/wp-startpack/issues"
   },
-  "homepage": "https://github.com/BenjaminJaume/hwcr#readme"
+  "homepage": "https://github.com/BenjaminJaume/wp-startpack#readme"
 }
