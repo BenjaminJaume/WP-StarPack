@@ -23,7 +23,7 @@
         <div class="row">
             <div class="col-12 text-center">
                 <p class="text-dark text-uppercase">
-                    &copy; 2020 <?php echo get_bloginfo('name'); ?> - All Rights Reserved
+                    &copy; 2021 <?php echo get_bloginfo('name'); ?> - All Rights Reserved
                 </p>
             </div>
         </div>

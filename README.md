@@ -19,10 +19,12 @@ Starting Pack Template theme for WordPress - Created by [Benjamin Jaume](http://
 
 # Getting started
 
+1. Clone repo in your `wp-content/themes/NAME_OF_THEME/`
 2. Run `npm i`
-3. Run `npm run css` while editing scss files
+3. Run `npm run css` to compile your css
+4. Edit the file `style.css` for your custom needs
 
-Create the logo, then use [https://favicon.io/](https://favicon.io/). With the ZIP file created, extract it into the folder `"medias/favicons"`.
+Create the logo, then use [https://favicon.io/](https://favicon.io/). With the ZIP file created, extract it into the folder into `"medias/favicons"`.
 
 ## Recommended plugins
 
