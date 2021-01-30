@@ -4,9 +4,9 @@
   "description": "Starting Pack Template theme for WordPress - Created by Benjamin Jaume",
   "main": "index.js",
   "dependencies": {
-    "@csstoolsnormalize.css": "^11.0.1",
-    "@fortawesomefontawesome-free": "^5.15.2",
-    "@ttskchselect2-bootstrap4-theme": "^1.3.4",
+    "@csstools/normalize.css": "^11.0.1",
+    "@fortawesome/fontawesome-free": "^5.15.2",
+    "@ttskch/select2-bootstrap4-theme": "^1.5.2",
     "animate.css": "^4.1.1",
     "aos": "^2.3.4",
     "bootstrap": "^4.4.1",
