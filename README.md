@@ -94,6 +94,10 @@ Important to note that all CSS are compacted in a "app.css" file. It may cause l
 - Version: 1.3.4
 - Description: Select2 v4 theme for Bootstrap4 (Compatible to boostrap 4.0.0+)
 
+### [cssgram](https://www.npmjs.com/package/cssgram)
+- Version: 0.1.3
+- Description: Instagram filter library in Sass and CSS
+
 # JS librairy
 
 ### [Bootstrap](https://www.npmjs.com/package/bootstrap)
