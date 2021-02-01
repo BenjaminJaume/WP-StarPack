@@ -2,8 +2,8 @@
 
 function load_stylesheet()
 {
-    // wp_register_style('bootstrap', get_template_directory_uri() . '/css/vendor/bootstrap.min.css', '', '4.6.0', 'all');
-    // wp_enqueue_style('bootstrap');
+    wp_register_style('bootstrap-rfs', get_template_directory_uri() . '/css/vendor/bootstrap-rfs.css', '', false, 'all');
+    wp_enqueue_style('bootstrap-rfs');
 
     wp_register_style('app', get_template_directory_uri() . '/css/app.css', '', '1.0.0', 'all');
     wp_enqueue_style('app');
