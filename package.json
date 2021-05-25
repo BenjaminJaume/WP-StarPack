@@ -19,7 +19,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "css": "sass --watch scsscss --style compressed"
+    "css": "sass --watch scss:css --style compressed"
   },
   "repository": {
     "type": "git",
